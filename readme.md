@@ -1,8 +1,10 @@
 # 🏄‍♂️ MOHAMMED SUNEER CK
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Flutter Developer`**
 
 I'm a proficient Flutter Developer with a passion for creating exceptional mobile experiences. My career is a testament to unyielding dedication to excellence in app development. While my past work speaks volumes about my capabilities, my true essence lies in my insatiable appetite for growth and my relentless pursuit of compelling projects. I thrive on the journey of continuous learning, persistently challenging myself, and actively engaging in projects that carry substantial significance.
+
+For more info, visit my <a href="https://www.suneerck.in" >portfolio</a>
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
@@ -21,7 +23,6 @@ I'm a proficient Flutter Developer with a passion for creating exceptional mobil
  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
- ![]()
  
 #
 
