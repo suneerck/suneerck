@@ -2,7 +2,7 @@
 
 **`Flutter Developer`**
 
-I'm a proficient Flutter Developer with a passion for creating exceptional mobile experiences. My career is a testament to unyielding dedication to excellence in app development. While my past work speaks volumes about my capabilities, my true essence lies in my insatiable appetite for growth and my relentless pursuit of compelling projects. I thrive on the journey of continuous learning, persistently challenging myself, and actively engaging in projects that carry substantial significance.
+I'm seeking out opportunities to collaborate with companies and agencies. I want to bring my developing experience to the table where we can work together to solve real problems in a way that optimizes all of our respective experience and knowledge.
 
 For more info, visit my <a href="https://www.suneerck.in" >portfolio</a>
 
